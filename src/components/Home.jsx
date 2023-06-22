@@ -7,7 +7,7 @@ const Home = () => {
 
 
     return (
-        <div name="home" className='h-100vh w-full bg-indigo-400'>
+        <div name="home" className='h-100vh w-full bg-indigo-500'>
             <div className='max-w-screen-lg pt-40 gap-48 mx-auto flex flex-col items-center justify-center h-full px-16 md:flex-row'>
                 <div className='flex flex-col  justify-center h-full'>
                     <h2 className='text-2xl sm:text-5xl font-bold text-white'>
@@ -23,7 +23,7 @@ const Home = () => {
 
                     <div>
 
-                        <Link to='contact' smooth duration={500} className='group text-indigo-400 font-bold w-fit px-6 py-3 my-2 flex items-center rounded-md bg-white cursor-pointer'>
+                        <Link to='contact' smooth duration={500} className='group text-indigo-500 font-bold w-fit px-6 py-3 my-2 flex items-center rounded-md bg-white cursor-pointer'>
                             CONTACT ME
                             <span className='group-hover:rotate-90 duration-200'>
                                 <MdOutlineKeyboardArrowRight size={25} />
