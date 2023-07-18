@@ -1,6 +1,7 @@
 import React from "react";
 import nigTilling from "../assets/portfolio/nig_tiling.jpg";
 import portfo from "../assets/portfolio/portfolioImg.png";
+import gymm from "../assets/portfolio/gymImg.png";
 import { FaGithub, FaGlobe } from "react-icons/fa";
 const Portfolio = () => {
   const portfolio = [
@@ -18,7 +19,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: nigTilling,
+      src: gymm,
       demo: "https://github.com/Ademola90/random-user.git",
       github: "https://github.com/Ademola90/Tiling-company.git",
     },
