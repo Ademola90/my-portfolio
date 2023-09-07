@@ -17,7 +17,7 @@ const Portfolio = () => {
     {
       id: 2,
       src: portfo,
-      demo: "https://my-portfolio-psfdnv99q-ademolaabdullahi989-gmailcom.vercel.app",
+      demo: "https://my-portfolio-edvj4nl02-ademolaabdullahi989-gmailcom.vercel.app",
       github: "https://github.com/Ademola90/my-portfolio",
     },
     {
