@@ -2,6 +2,8 @@ import React from "react";
 import nigTilling from "../assets/portfolio/nig_tiling.jpg";
 import portfo from "../assets/portfolio/portfolioImg.png";
 import gymm from "../assets/portfolio/gymImg.png";
+import getAdvice from "../assets/getAdvice.png";
+import glob from "../assets/glob.png";
 import { FaGithub, FaGlobe } from "react-icons/fa";
 const Portfolio = () => {
   const portfolio = [
@@ -25,15 +27,16 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: nigTilling,
-      demo: "https://github.com/Ademola90/random-user.git",
-      github: "https://github.com/Ademola90/Tiling-company.git",
+      src: getAdvice,
+      demo: "https://github.com/Ademola90/getAdvice-app",
+      github:
+        "https://get-advice-pwud80aff-ademolaabdullahi989-gmailcom.vercel.app",
     },
     {
       id: 5,
-      src: nigTilling,
-      demo: "https://github.com/Ademola90/random-user.git",
-      github: "https://github.com/Ademola90/Tiling-company.git",
+      src: glob,
+      demo: "https://github.com/Ademola90/real-estate-agent.git",
+      github: "https://real-estate-agent-two.vercel.app/",
     },
     {
       id: 6,
