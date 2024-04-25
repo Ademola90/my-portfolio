@@ -35,12 +35,18 @@ const Portfolio = () => {
     },
     {
       id: 5,
+      src: require("../assets/blog.png"),
+      demo: "https://blog-starter-redux.vercel.app/",
+      github: "https://github.com/Ademola90/blog-starter-redux",
+    },
+    {
+      id: 6,
       src: gymm,
       demo: "https://github.com/Ademola90/random-user.git",
       github: "https://github.com/Ademola90/Tiling-company.git",
     },
     {
-      id: 6,
+      id: 7,
       src: getAdvice,
       demo: "https://get-advice-pwud80aff-ademolaabdullahi989-gmailcom.vercel.app",
       github: "https://github.com/Ademola90/getAdvice-app",
