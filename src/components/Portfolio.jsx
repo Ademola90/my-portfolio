@@ -20,29 +20,30 @@ const Portfolio = () => {
       demo: "https://my-portfolio-edvj4nl02-ademolaabdullahi989-gmailcom.vercel.app",
       github: "https://github.com/Ademola90/my-portfolio",
     },
+
     {
       id: 3,
-      src: gymm,
-      demo: "https://github.com/Ademola90/random-user.git",
-      github: "https://github.com/Ademola90/Tiling-company.git",
-    },
-    {
-      id: 4,
-      src: getAdvice,
-      demo: "https://get-advice-pwud80aff-ademolaabdullahi989-gmailcom.vercel.app",
-      github: "https://github.com/Ademola90/getAdvice-app",
-    },
-    {
-      id: 5,
       src: glob,
       demo: "https://real-estate-agent-two.vercel.app/",
       github: "https://github.com/Ademola90/real-estate-agent.git",
     },
     {
+      id: 4,
+      src: require("../assets/nextrend.png"),
+      demo: "https://nextrend-nu.vercel.app/",
+      github: "https://github.com/Ademola90/nextrend",
+    },
+    {
+      id: 5,
+      src: gymm,
+      demo: "https://github.com/Ademola90/random-user.git",
+      github: "https://github.com/Ademola90/Tiling-company.git",
+    },
+    {
       id: 6,
-      src: roundom,
-      demo: "https://github.com/Ademola90/Tiling-company.git",
-      github: "https://github.com/Ademola90/random-user.git",
+      src: getAdvice,
+      demo: "https://get-advice-pwud80aff-ademolaabdullahi989-gmailcom.vercel.app",
+      github: "https://github.com/Ademola90/getAdvice-app",
     },
   ];
 
