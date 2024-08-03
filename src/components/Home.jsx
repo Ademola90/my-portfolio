@@ -1,12 +1,12 @@
 import React from "react";
-import HomePic from "../assets/HomePic.png";
+import HomePic from "../assets/office picture.jpg";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
 const Home = () => {
   return (
     <div name="home" className="h-100vh w-full bg-indigo-500">
-      <div className="max-w-screen-lg pt-40 gap-48 mx-auto flex flex-col items-center justify-center h-full px-16 md:flex-row">
+      <div className=" lg:flex pt-40 lg:gap-48 md:gap-20 gap-20 mx-auto  items-center justify-center h-full px-16 md:grid">
         <div className="flex flex-col  justify-center h-full">
           <h2 className="text-2xl sm:text-5xl font-bold text-white">
             {/* I am a Full Stack Developer */}
@@ -14,7 +14,7 @@ const Home = () => {
             I'm Abdullahi <br />
             web developer
           </h2>
-          <p className="text-black py-4 max-w-md">
+          <p className="text-black lg:py-4 md:py-8 py-4 max-w-md">
             I have 4 years of experience in front-end web development,
             specializing in building and designing web applications using
             technologies such as React JS, JavaScript, CSS, and Tailwind CSS...
@@ -35,8 +35,12 @@ const Home = () => {
           </div>
         </div>
 
-        <div>
-          <img src={HomePic} alt="description" className="rounded-2xl " />
+        <div className="">
+          <img
+            src={HomePic}
+            alt="description"
+            className="rounded-2xl lg:h-[400px] "
+          />
         </div>
       </div>
     </div>
