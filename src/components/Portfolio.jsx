@@ -75,25 +75,25 @@ const Portfolio = () => {
     },
     {
       id: 8,
+      src: beekayimg,
+      demo: "https://beekay.vercel.app/",
+      title: "Beekay Website",
+      description:
+        "Music website with product catalog and service information.",
+    },
+    {
+      id: 9,
       src: nextrendimg,
       demo: "",
       title: "Nextrend Website",
       description: "Nextrend website for ordering your favorite food.",
     },
     {
-      id: 9,
+      id: 10,
       src: myportfolio,
       demo: "https://my-portfolio-edvj4nl02-ademolaabdullahi989-gmailcom.vercel.app",
       title: "My Portfolio",
       description: "Personal portfolio website showcasing skills and projects.",
-    },
-    {
-      id: 10,
-      src: beekayimg,
-      demo: "https://beekay.vercel.app/",
-      title: "Beekay Website",
-      description:
-        "Music website with product catalog and service information.",
     },
   ];
 
