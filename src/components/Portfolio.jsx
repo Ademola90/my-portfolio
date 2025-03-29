@@ -10,7 +10,7 @@ import nextrendimg from "../assets/nextrendimg.png";
 import cefcodev from "../assets/cefcodev.png";
 import beekayimg from "../assets/beekayimg.png";
 import asbeimg from "../assets/asbeimg.png";
-import portfo from "../assets/portfolio/portfolioImg.png";
+import myportfolio from "../assets/myportfolio.png";
 import glob from "../assets/glob.png";
 
 const Portfolio = () => {
@@ -82,7 +82,7 @@ const Portfolio = () => {
     },
     {
       id: 9,
-      src: portfo,
+      src: myportfolio,
       demo: "https://my-portfolio-edvj4nl02-ademolaabdullahi989-gmailcom.vercel.app",
       title: "My Portfolio",
       description: "Personal portfolio website showcasing skills and projects.",

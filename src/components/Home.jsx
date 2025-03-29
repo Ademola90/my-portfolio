@@ -9,10 +9,10 @@ const Home = () => {
       name="home"
       className="min-h-screen w-full bg-indigo-500 flex items-center"
     >
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:mt-5 md:mt-5 mt-10">
         <div className="lg:flex items-center justify-between gap-12">
           <div className="flex flex-col justify-center lg:w-1/2">
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight">
+            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight ">
               Hi, <br />
               I'm Abdullahi <br />
               <span className="text-white/90">Web Developer</span>
