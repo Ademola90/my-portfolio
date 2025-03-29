@@ -68,7 +68,7 @@ const Portfolio = () => {
     {
       id: 7,
       src: glob,
-      demo: "https://real-estate-agent-two.vercel.app/",
+      demo: "",
       title: "Real Estate Agent Website",
       description:
         "Property listing and real estate agent platform with search functionality.",
