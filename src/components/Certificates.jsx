@@ -8,7 +8,7 @@ const Certificates = () => {
       img: certf,
       title: "Andela Technical Leadership Program",
       issuer: "Andela",
-      date: "2022",
+      date: "2023",
       description:
         "Certification in technical leadership and software development best practices",
     },

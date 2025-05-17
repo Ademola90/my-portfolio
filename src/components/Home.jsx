@@ -19,7 +19,7 @@ const Home = () => {
             </h1>
 
             <p className="text-white/80 py-6 max-w-md text-lg">
-              I have over 5 years of experience in front-end web development,
+              I have over 5 years of experience in full-stack web development,
               specializing in building and designing modern web applications
               using Node.js, React.js, JavaScript, TypeScript, CSS, Tailwind
               CSS, and state management tools like Redux, Redux Toolkit, and
